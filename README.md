@@ -2,7 +2,7 @@
 
 Some code to play a 1v1 version of the Blokus game, the pieces are the same as in the original game, the board is 12x12.
 I coded this not to be able to play the game, but to be able to code an IA that plays the game. It is still playable and you can face one of the three IAs, or play against someone on the same computer, or watch IAs face eachother.
-All three IAs are extremly naive and were coded very quickly. 
+All three IAs are extremly naive. 
 
 `random` plays random moves.
 
