@@ -12,5 +12,4 @@ All three IAs are extremly naive.
 
 You are free to code an IA and beat those.
 
-An epic fight between `max_angles` and `glouton`:
-https://www.youtube.com/watch?v=ayxqXRWGyFU
+An epic fight between `max_angles` and `glouton`: https://www.youtube.com/watch?v=2mFuZTLqXV4
