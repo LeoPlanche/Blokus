@@ -11,3 +11,6 @@ All three IAs are extremly naive.
 `max_angles` plays the largest pieces first and tries to maximise its number of playable squares, while minimizing the number of playable squares for the opponent. A playable square is a square at a diagonal of a piece, while not being adjacent to one.
 
 You are free to code an IA and beat those.
+
+An epic fight between `max_angles` and `glouton`:
+https://www.youtube.com/watch?v=ayxqXRWGyFU
