@@ -8,6 +8,6 @@ All three IAs are extremly naive and were coded very quickly.
 
 `glouton` plays the largest pieces first and tries to go on the side of the opponent.
 
-`max_angles` plays the largest pieces first and tries to maximise the number of playable squares, while minimizing the number of playable squares for the opponent. A playable square is a square at a diagonal of a piece, while not being adjacent to one.
+`max_angles` plays the largest pieces first and tries to maximise its number of playable squares, while minimizing the number of playable squares for the opponent. A playable square is a square at a diagonal of a piece, while not being adjacent to one.
 
 You are free to code an IA and beat those.
